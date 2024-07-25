@@ -37,6 +37,5 @@ This calculator is designed for anyone who needs a simple and easy-to-use calcul
 
 Screenshots:
 
-[Insert screenshots of the calculator in action]
 
 I hope this helps! Let me know if you'd like me to make any changes.
