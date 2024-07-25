@@ -11,9 +11,10 @@ Features:
 
 Technical details:
 
-Built using Python 3.11
-Uses the Tkinter library for the graphical interface
-Designed for Windows, macOS, and Linux platforms
+* Built using Python 3.11
+* Uses the Tkinter library for the graphical interface
+* Designed for Windows, macOS, and Linux platforms
+
 How to use:
 
 Clone the repository to your local machine
